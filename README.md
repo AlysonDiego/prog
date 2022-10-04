@@ -1,4 +1,4 @@
-## Olá!! me chamo Alyson e seja bem vindo ao meu perfil😉
+## Olá!! me chamo Alyson Diego e seja bem vindo ao meu perfil! 😉
 <div>
   <a href="https://github.com/AlysonDiego">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlysonDiego&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
